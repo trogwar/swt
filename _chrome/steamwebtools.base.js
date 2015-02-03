@@ -8,7 +8,7 @@
 
 var url = document.URL;
 
-var CDN = '//myzmage.github.io/swt/app/';
+var CDN = '//trogwar.github.io/swt/app/';
 
 var scripts = [
 	{
